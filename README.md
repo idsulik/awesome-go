@@ -3236,6 +3236,7 @@ _Plugin for text editors and IDEs._
 
 ## Go Tools
 
+- [swama](https://github.com/idsulik/swama) - CLI tool for interacting with Swagger/OpenAPI definitions through 
 - [colorgo](https://github.com/songgao/colorgo) - Wrapper around `go` command for colorized `go build` output.
 - [decouple](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
 - [depth](https://github.com/KyleBanks/depth) - Visualize dependency trees of any package by analyzing imports.
